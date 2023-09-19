@@ -14,7 +14,7 @@ The contract uses require(), assert(), and revert() statements to ensure the sec
 
 ## Contract Functions
 
-### constructor()
+### `constructor()`
 
 - Initializes the contract by setting the owner to the address that deployed the contract and the initial balance to 0.
 
